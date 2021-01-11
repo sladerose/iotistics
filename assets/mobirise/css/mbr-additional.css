@@ -686,8 +686,6 @@ a {
 .cid-sh3CZNeef3 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sh3CZNeef3 nav.navbar {
   position: fixed;
@@ -787,8 +785,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #232323;
+  background: rgba(35, 35, 35, 0);
 }
 .cid-sh3CZNeef3 .navbar.opened {
   transition: all 0.3s;
@@ -1234,8 +1231,6 @@ a {
 .cid-sh3CZNeef3 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sh3CZNeef3 nav.navbar {
   position: fixed;
@@ -1335,8 +1330,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #232323;
+  background: rgba(35, 35, 35, 0);
 }
 .cid-sh3CZNeef3 .navbar.opened {
   transition: all 0.3s;
@@ -1761,8 +1755,6 @@ a {
 .cid-sh3CZNeef3 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sh3CZNeef3 nav.navbar {
   position: fixed;
@@ -1862,8 +1854,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #232323;
+  background: rgba(35, 35, 35, 0);
 }
 .cid-sh3CZNeef3 .navbar.opened {
   transition: all 0.3s;
@@ -2255,8 +2246,6 @@ a {
 .cid-sh3CZNeef3 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sh3CZNeef3 nav.navbar {
   position: fixed;
@@ -2356,8 +2345,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #232323;
+  background: rgba(35, 35, 35, 0);
 }
 .cid-sh3CZNeef3 .navbar.opened {
   transition: all 0.3s;
@@ -2723,8 +2711,6 @@ a {
 .cid-sh3CZNeef3 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sh3CZNeef3 nav.navbar {
   position: fixed;
@@ -2824,8 +2810,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #232323;
+  background: rgba(35, 35, 35, 0);
 }
 .cid-sh3CZNeef3 .navbar.opened {
   transition: all 0.3s;
